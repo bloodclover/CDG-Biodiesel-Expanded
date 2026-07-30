@@ -3,7 +3,7 @@
 </p>
 <h1 align="center">Create Diesel Generators: Biodiesel Expanded</h1><br>
 <p>Create Diesel Generators: Biodiesel Expanded is an addon for Create: Diesel Generators which adds new crops and recipes.</p>
-<p>It's made to provide more renewable energy sources to modpacks that doesn't have infinite energy such as the infinite lava using a rope pulley.</p>
+<p>It's made to provide more renewable energy sources to modpacks that doesn't have infinite energy such as the infinite lava using a hose pulley.</p>
 <h3>What this mod provides:</h3>
 <ul>
     <li>New recipes for pulp and a way to turn it to sugar</li>
