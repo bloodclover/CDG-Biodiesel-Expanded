@@ -137,6 +137,7 @@ dependencies {
     implementation("com.tterrag.registrate:Registrate:${registrate_version}")
 
     implementation("maven.modrinth:create-diesel-generators:${minecraft_version}-${cdg_version}")
+    implementation("maven.modrinth:farmers-delight:${minecraft_version}-${fd_version}")
 
     // JEI (optional — for recipe integration)
     compileOnly "mezz.jei:jei-${minecraft_version}-common-api:${jei_version}"
@@ -163,6 +164,7 @@ var generateModMetadata = tasks.register("generateModMetadata", ProcessResources
             flywheel_version       : flywheel_version,
             ponder_version         : ponder_version,
             jei_version            : jei_version,
+            fd_version             : fd_version,
     ]
     inputs.properties replaceProperties
     expand replaceProperties
